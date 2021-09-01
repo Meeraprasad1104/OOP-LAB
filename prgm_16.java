@@ -27,7 +27,7 @@ class result implements student,sports
     }
     
 }
-class prgm_16
+class prgm_11
 {
     public static void main(String arg[])
     {
