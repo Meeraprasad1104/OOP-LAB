@@ -8,7 +8,7 @@ public class copy_file
         BufferedWriter  bw = null;
         try
         {
-            fw = new FileWriter("hi.txt");
+            fw = new FileWriter("hii.txt");
             bw = new BufferedWriter(fw);
             Scanner sc= new Scanner(System.in);
             String s =" ";
