@@ -33,11 +33,11 @@ class linkedlist_method
         lst.addLast(3000);
         System.out.println("\n\t\t new list is = " +lst);
 
-        System.out.println("\n\t 4. REMOVE FIRST");
+        System.out.println("\n\t 6. REMOVE FIRST");
         System.out.println("\n\t\t removing element = " +lst.removeFirst());
         System.out.println("\n\t\t after removing first element = " +lst);
 
-        System.out.println("\n\t 5.CLEAR");
+        System.out.println("\n\t 7.CLEAR");
         lst.clear();
         System.out.println("\n\t\t after clearing  = "+lst);
     }
