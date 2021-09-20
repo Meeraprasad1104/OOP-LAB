@@ -10,7 +10,7 @@ class awtpgm implements ActionListener
         f =  new Frame();
         f.setSize(600,600);
         f.setLayout(null);
-        f.setTitle("prgm to find sum of 3 numbers ");
+        f.setTitle("prgm to find largest of 3 numbers ");
         f.setVisible(true);
         l1 =  new Label("enter first number ");
         t1 =  new TextField("");
